@@ -1,0 +1,8 @@
+C:\curso\inversao_de_nomes\inversao_de_nomes\bin\Debug\inversao_de_nomes.exe.config
+C:\curso\inversao_de_nomes\inversao_de_nomes\bin\Debug\inversao_de_nomes.exe
+C:\curso\inversao_de_nomes\inversao_de_nomes\bin\Debug\inversao_de_nomes.pdb
+C:\curso\inversao_de_nomes\inversao_de_nomes\obj\Debug\inversao_de_nomes.csproj.AssemblyReference.cache
+C:\curso\inversao_de_nomes\inversao_de_nomes\obj\Debug\inversao_de_nomes.csproj.SuggestedBindingRedirects.cache
+C:\curso\inversao_de_nomes\inversao_de_nomes\obj\Debug\inversao_de_nomes.csproj.CoreCompileInputs.cache
+C:\curso\inversao_de_nomes\inversao_de_nomes\obj\Debug\inversao_de_nomes.exe
+C:\curso\inversao_de_nomes\inversao_de_nomes\obj\Debug\inversao_de_nomes.pdb
