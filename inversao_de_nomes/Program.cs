@@ -24,10 +24,10 @@ namespace inversao_de_nomes
             nomes nomes_usuario = new nomes(); // entrada de dados pelo usuario para o struct
 
         // local da entrada
-        Console.WriteLine("Ola, bem vindo a programa ordem dos nomes.");
+        Console.WriteLine("Ola, bem vindo a programa inversao da ordem dos nomes.");
             Console.WriteLine("Digite o primeiro nome!");
             nomes_usuario.nome1 = Console.ReadLine();
-            Console.WriteLine("Digite o o segundo nome!");
+            Console.WriteLine("Digite o segundo nome!");
             nomes_usuario.nome2 = Console.ReadLine();
             Console.WriteLine("Digite o terceiro nome!");
             nomes_usuario.nome3 = Console.ReadLine();
@@ -35,7 +35,7 @@ namespace inversao_de_nomes
             nomes_usuario.nome4 = Console.ReadLine();
 
             /*
-            local da inversao dos nomes a sequencia dos nomes da inversao sera
+            local da inversao dos nomes, a sequencia dos nomes da inversao sera
             auxilia = nome1, nome1 = nome4, nome2 = nome3, nome4 = nome2, nome3 = auxiliar  
             */
 
